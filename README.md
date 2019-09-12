@@ -1,4 +1,4 @@
-# Survival_Analysis: a practical guide
+# Survival Analysis: a practical guide
 
 This notebook's purpose is to introduce basic concepts of Survival Analysis.
  - Democracy and Dictatorship: Introduces right censoring and Kaplan-Meier estimator on the Democracy and Dictatorship dataset.
